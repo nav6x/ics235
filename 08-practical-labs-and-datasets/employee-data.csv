@@ -1,0 +1,101 @@
+EmployeeID,Name,Age,Gender,City,Department,Salary,JoinDate,YearsExperience,PerformanceScore,LeftCompany,EducationLevel,MaritalStatus,LastPromotionDate,SickDaysTaken
+E001,John Smith,28,Male,New York,HR,62000,2022-01-15,5,4.1,0,Bachelor's,Married,2023-05-20,5
+E002,Jane Doe,34,Female,Los Angeles,Marketing,78000,2021-07-20,9,4.5,0,Master's,Single,2022-11-10,8
+E003,Sam Brown,,Male,Chicago,Engineering,125000,2020-03-10,12,4.8,0,PhD,Married,2021-08-15,2
+E004,Sara Jones,27,Female,  Houston  ,hr,72000,2022-05-30,4,3.9,0,Bachelor's,Single,,6
+E005,Mike Lee,45,Male,Chicago,Engineering,,2018-11-01,15,4.9,0,Master's,Divorced,2020-01-20,3
+E006,Emily White,31,,Phoenix,Sales,95000,2021-09-12,7,4.3,0,Bachelor's,Married,2023-03-12,10
+E007,David Green,29,Male,new york,IT,88000,2022-02-20,6,4.2,0,Master's,Single,2023-07-01,4
+E008,Maria Garcia,38,Female,los angeles,Marketing,81000,2020-10-05,11,4.6,0,PhD,Married,2022-04-22,7
+E009,James Miller,52,Male,Houston,sales,115000,2017-06-18,20,4.7,0,High School,Divorced,2019-09-30,9
+E010,Anna Davis,24,Female,Chicago,engineering,130000,2022-08-01,3,4.0,0,PhD,Single,,5
+E011,Robert Wilson,33,Male,New York,it,,2021-04-11,8,4.4,0,Master's,Married,2022-10-18,6
+E012,Linda Martinez,26,Female,Phoenix,HR,68000,2023-01-09,2,3.7,0,Bachelor's,Single,2023-12-01,7
+E013,William Taylor,41,Male,Los Angeles,Sales,105000,2019-12-01,13,4.5,0,Master's,Married,2021-06-14,11
+E014,Susan Anderson,36,Female,Houston,marketing,79000,2020-02-14,10,4.2,0,Bachelor's,Divorced,2022-02-19,8
+E015,Chris Thomas,29,Male,chicago,IT,92000,2022-03-17,5,4.1,0,Bachelor's,Single,,4
+E016,John Smith,28,Male,New York,HR,62000,2022-01-15,5,4.1,0,Bachelor's,Married,2023-05-20,5
+E017,Jessica Hernandez,30,Female,Phoenix,Sales,98000,2021-11-22,6,4.4,0,Master's,Married,2023-04-05,9
+E018,Daniel Moore,48,Male,New York,Engineering,150000,2016-08-30,22,4.8,0,PhD,Single,2018-12-12,1
+E019,Karen Clark,35,Female,Los Angeles,hr,75000,2020-05-25,9,4.0,0,Bachelor's,Married,2021-11-30,7
+E020,CEO's Nephew,22,Male,New York,Engineering,1200000,2023-09-01,1,2.5,1,High School,Single,,25
+E021,Patricia Lewis,39,Female,Houston,IT,102000,2019-07-19,12,4.6,0,Master's,Divorced,2020-10-01,6
+E022,Richard Hall,25,Male,Chicago,Marketing,71000,2022-10-10,3,3.8,0,Bachelor's,Single,,8
+E023,Nancy Allen,43,Female,Phoenix,sales,112000,2018-01-28,16,4.7,0,PhD,Married,2020-03-15,10
+E024,John Smith,28,Male,New York,HR,62000,2022-01-15,5,4.1,0,Bachelor's,Married,2023-05-20,5
+E025,Kevin Wright,37,Male,los angeles,IT,99000,2020-01-07,11,4.5,0,Master's,Single,2022-07-20,5
+E026,Laura King,29,Female,Houston,Marketing,76000,2022-04-01,4,4.0,0,Bachelor's,Married,2023-09-01,7
+E027,Brian Scott,46,Male,Chicago,Engineering,140000,2017-10-15,18,4.9,0,PhD,Divorced,2019-05-20,2
+E028,Donna Green,32,Female,Phoenix,HR,70000,2021-06-20,6,3.9,0,Master's,Single,,9
+E029,Steven Adams,28,Male,New York,Sales,85000,2022-07-11,4,4.2,0,Bachelor's,Married,2023-11-15,6
+E030,Michelle Baker,39,Female,Los Angeles,IT,108000,2019-08-22,13,4.7,0,Master's,Divorced,2021-02-10,4
+E031,Paul Nelson,44,Male,Houston,Engineering,135000,2018-05-14,17,4.8,0,PhD,Married,2020-09-05,3
+E032,Carol Carter,26,Female,Chicago,Marketing,73000,2023-02-18,2,3.8,0,Bachelor's,Single,,7
+E033,George Mitchell,31,Male,Phoenix,Sales,92000,2021-12-30,5,4.3,0,Master's,Married,2023-06-25,10
+E034,Debra Perez,35,Female,New York,HR,74000,2020-09-01,8,4.0,0,Bachelor's,Divorced,2022-01-10,8
+E035,Frank Roberts,50,Male,Los Angeles,IT,118000,2016-03-12,23,4.9,0,PhD,Married,2018-07-22,2
+E036,Cynthia Turner,29,Female,Houston,Marketing,77000,2022-01-25,5,4.1,0,Bachelor's,Single,,6
+E037,Edward Phillips,33,Male,Chicago,Engineering,128000,2021-05-05,9,4.7,0,Master's,Married,2022-11-20,4
+E038,Angela Campbell,27,Female,Phoenix,Sales,89000,2022-11-08,3,4.2,0,Bachelor's,Single,,9
+E039,Mark Parker,42,Male,New York,IT,112000,2019-02-11,14,4.6,0,PhD,Divorced,2021-04-15,5
+E040,Sandra Evans,36,Female,Los Angeles,HR,76000,2020-08-19,9,4.0,0,Master's,Married,2022-03-28,8
+E041,Donald Edwards,47,Male,Houston,Engineering,145000,2017-01-22,20,4.9,0,Master's,Single,2019-06-10,2
+E042,Ashley Collins,30,Female,Chicago,Marketing,80000,2021-10-03,6,4.4,0,Bachelor's,Married,2023-02-01,7
+E043,Kenneth Stewart,28,Male,Phoenix,Sales,91000,2022-06-14,4,4.3,0,Bachelor's,Single,,10
+E044,Betty Morris,38,Female,New York,IT,105000,2019-11-27,12,4.5,0,PhD,Divorced,2021-09-08,6
+E045,Ronald Rogers,41,Male,Los Angeles,Engineering,132000,2018-09-09,16,4.8,0,Master's,Married,2020-12-19,3
+E046,Dorothy Reed,25,Female,Houston,HR,69000,2023-03-01,2,3.7,0,Bachelor's,Single,,8
+E047,Gary Cook,34,Male,Chicago,Marketing,82000,2020-12-12,8,4.2,0,Master's,Married,2022-06-18,7
+E048,Lisa Morgan,29,Female,Phoenix,Sales,94000,2022-02-22,5,4.4,0,Bachelor's,Single,,9
+E049,Larry Bell,49,Male,New York,IT,120000,2016-07-07,24,4.9,0,PhD,Divorced,2018-11-11,1
+E050,Brenda Murphy,32,Female,Los Angeles,HR,73000,2021-03-15,7,3.9,0,Master's,Married,2022-09-20,8
+E051,Scott Bailey,27,Male,Houston,Engineering,122000,2022-09-18,4,4.6,0,Master's,Single,,4
+E052,Kimberly Rivera,31,Female,Chicago,Marketing,79000,2021-08-08,6,4.1,0,Bachelor's,Married,2023-01-25,7
+E053,Jerry Cooper,45,Male,Phoenix,Sales,110000,2017-11-11,19,4.7,0,High School,Divorced,2019-10-14,10
+E054,Amanda Richardson,26,Female,New York,IT,86000,2022-12-01,3,4.0,0,Bachelor's,Single,,5
+E055,Dennis Cox,39,Male,Los Angeles,Engineering,138000,2019-04-04,14,4.8,0,PhD,Married,2021-07-07,3
+E056,Heather Howard,28,Female,Houston,HR,71000,2022-05-10,4,3.8,0,Bachelor's,Married,2023-10-01,8
+E057,Adam Ward,36,Male,Chicago,Marketing,84000,2020-06-26,10,4.3,0,Master's,Single,2022-04-04,7
+E058,Melissa Brooks,30,Female,Phoenix,Sales,96000,2021-01-19,7,4.4,0,Bachelor's,Married,2022-08-18,9
+E059,Billy Gray,48,Male,New York,IT,115000,2016-10-21,23,4.9,0,Master's,Divorced,2018-09-19,2
+E060,Cheryl James,33,Female,Los Angeles,HR,77000,2020-11-02,8,4.0,0,Master's,Single,2022-05-11,8
+E061,Jeremy Price,29,Male,Houston,Engineering,126000,2022-03-23,5,4.7,0,PhD,Married,2023-08-23,4
+E062,Christina Bennett,27,Female,Chicago,Marketing,75000,2022-08-14,3,3.9,0,Bachelor's,Single,,7
+E063,Todd Wood,42,Male,Phoenix,Sales,108000,2018-03-28,17,4.6,0,High School,Divorced,2020-04-28,10
+E064,Sara Washington,35,Female,New York,IT,101000,2020-04-17,11,4.5,0,Master's,Married,2022-02-08,6
+E065,Roger Barnes,40,Male,Los Angeles,Engineering,142000,2018-12-19,15,4.8,0,PhD,Single,2020-11-09,3
+E066,Janice Ross,26,Female,Houston,HR,70000,2023-04-05,2,3.7,0,Bachelor's,Married,,8
+E067,Walter Henderson,37,Male,Chicago,Marketing,86000,2019-10-10,11,4.3,0,Master's,Divorced,2021-08-10,7
+E068,Diana Coleman,31,Female,Phoenix,Sales,97000,2021-07-07,6,4.4,0,Bachelor's,Single,2023-01-07,9
+E069,Terry Jenkins,51,Male,New York,IT,122000,2016-01-11,25,4.9,0,Master's,Married,2018-04-11,1
+E070,Katherine Perry,34,Female,Los Angeles,HR,79000,2020-02-20,10,4.1,0,Master's,Divorced,2021-12-20,8
+E071,Bobby Powell,28,Male,Houston,Engineering,124000,2022-06-29,4,4.6,0,PhD,Single,,4
+E072,Martha Long,32,Female,Chicago,Marketing,81000,2021-04-21,7,4.2,0,Bachelor's,Married,2022-10-21,7
+E073,Russell Patterson,46,Male,Phoenix,Sales,114000,2017-05-05,20,4.7,0,High School,Divorced,2019-08-05,10
+E074,Andrea Hughes,29,Female,New York,IT,90000,2022-01-01,6,4.3,0,Bachelor's,Single,2023-05-01,5
+E075,Henry Flores,43,Male,Los Angeles,Engineering,148000,2018-02-02,18,4.9,0,PhD,Married,2020-06-02,2
+E076,Mildred Washington,25,Female,Houston,HR,67000,2023-05-15,1,3.6,1,Bachelor's,Single,,9
+E077,Carl Simmons,38,Male,Chicago,Marketing,88000,2019-06-16,12,4.4,0,Master's,Divorced,2021-05-16,7
+E078,Ruby Foster,33,Female,Phoenix,Sales,100000,2020-10-28,8,4.5,0,Bachelor's,Married,2022-07-28,9
+E079,Clarence Butler,53,Male,New York,IT,125000,2015-09-09,26,4.9,0,Master's,Single,2017-12-09,1
+E080,Lillian Bryant,36,Female,Los Angeles,HR,80000,2019-01-30,12,4.1,0,Master's,Divorced,2021-03-30,8
+E081,Roy Alexander,30,Male,Houston,Engineering,129000,2021-11-11,6,4.7,0,PhD,Married,2023-04-11,4
+E082,Evelyn Griffin,28,Female,Chicago,Marketing,78000,2022-04-14,5,4.0,0,Bachelor's,Single,,7
+E083,Shawn Russell,41,Male,Phoenix,Sales,107000,2018-08-18,16,4.6,0,High School,Divorced,2020-09-18,10
+E084,Christina Diaz,34,Female,New York,IT,103000,2020-07-27,10,4.5,0,Master's,Married,2022-05-27,6
+E085,Phillip Hayes,47,Male,Los Angeles,Engineering,152000,2017-03-03,21,4.9,0,PhD,Single,2019-07-03,2
+E086,Joyce Graham,27,Female,Houston,HR,72000,2022-10-20,3,3.8,0,Bachelor's,Married,,8
+E087,Dennis Sullivan,39,Male,Chicago,Marketing,90000,2019-03-13,13,4.4,0,Master's,Divorced,2021-02-13,7
+E088,Doris Wallace,31,Female,Phoenix,Sales,99000,2021-02-02,7,4.5,0,Bachelor's,Single,2022-09-02,9
+E089,Arthur Woods,50,Male,New York,IT,123000,2016-05-25,25,4.9,0,Master's,Married,2018-08-25,1
+E090,Julie Hamilton,35,Female,Los Angeles,HR,82000,2019-09-14,11,4.1,0,Master's,Divorced,2021-10-14,8
+E091,Douglas Ray,29,Male,Houston,Engineering,127000,2022-01-05,6,4.7,0,PhD,Single,,4
+E092,Frances Warren,28,Female,Chicago,Marketing,77000,2022-07-07,4,4.0,0,Bachelor's,Married,2023-12-07,7
+E093,Albert Fox,44,Male,Phoenix,Sales,111000,2017-09-29,19,4.7,0,High School,Divorced,2019-11-29,10
+E094,Joan Armstrong,37,Female,New York,IT,106000,2019-05-05,13,4.6,0,Master's,Single,2021-06-05,6
+E095,Willie Larson,49,Male,Los Angeles,Engineering,155000,2016-11-11,24,4.9,0,PhD,Married,2018-10-11,2
+E096,Norma George,26,Female,Houston,HR,71000,2023-01-11,2,3.7,0,Bachelor's,Single,,8
+E097,Samuel Stone,40,Male,Chicago,Marketing,92000,2018-10-18,15,4.4,0,Master's,Divorced,2020-12-18,7
+E098,Teresa Vasquez,33,Female,Phoenix,Sales,103000,2020-08-08,9,4.5,0,Bachelor's,Married,2022-06-08,9
+E099,Peter Gilbert,52,Male,New York,IT,128000,2015-04-14,28,4.9,1,Master's,Single,2017-05-14,1
+E100,Mildred Washington,25,Female,Houston,HR,67000,2023-05-15,1,3.6,1,Bachelor's,Single,,9
